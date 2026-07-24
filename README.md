@@ -12,4 +12,4 @@ computational biology and biomedical data science.
 
 
 ## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/dataeunjaelee)
+[LinkedIn](https://www.linkedin.com/in/dataeunjaelee)
