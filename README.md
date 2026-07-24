@@ -14,4 +14,4 @@ computational biology and biomedical data science.
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/dataeunjaelee)
 
-email: leee62@unlv.nevada.edu
+leee62@unlv.nevada.edu
