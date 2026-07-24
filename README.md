@@ -1,6 +1,6 @@
 ## Hi, I'm Eunjae 👋
 
-I'm an undergraduate at UNLV studying Biological Sciences, passionate in fields like machine learning and biomedical research. I build and apply  ML models across neuroimaging, genomics, and cancer biology.
+I'm an undergraduate at UNLV studying Biological Sciences, passionate about fields like machine learning and biomedical research. I build and apply  ML models across neuroimaging, genomics, and cancer biology.
 
 🔬 **What I work on:**
 - Deep learning for Alzheimer's disease classification from MRI
