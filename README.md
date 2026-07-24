@@ -9,3 +9,7 @@ I'm an undergraduate at UNLV studying Biological Sciences, passionate in fields 
 
 🎯 **What I'm pursuing:** A career applying machine learning to problems in 
 computational biology and biomedical data science.
+
+
+## 📫 Connect with me
+[LinkedIn](www.linkedin.com/in/dataeunjaelee)
